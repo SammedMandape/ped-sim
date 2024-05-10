@@ -21,7 +21,7 @@ def full1-2-cous 1 4
 # branch specification lists 1:1 and 2:1: individual b1-i1 from the first
 # generation is the parent of both branches 1 and 2 in generation 2, but with
 # different spouses (with ids b1-s1 and b1-s2).
-# This results in half-first cousins and half-second cousins in the fourth
+# This results in full-first cousins and half-second cousins in the fourth
 # generation.
 def half1-2-cous 1 4
 2 0 2 1:1 2:1
